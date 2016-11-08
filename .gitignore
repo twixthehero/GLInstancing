@@ -1,0 +1,8 @@
+[Dd]ebug/
+[Oo]bj/
+.vs/
+
+*.sdf
+*.opendb
+*.user
+*.db
